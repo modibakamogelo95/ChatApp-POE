@@ -1,5 +1,5 @@
 package chatapp;
-
+//ChatApp - main entry point for registration, login, messaging and reporting
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Random;
@@ -261,11 +261,11 @@ public class ChatApp {
                                 default -> System.out.println("Invalid option.");
                             }
                         }
-                    }
+                    } 
                         
                     default -> System.out.println("Invalid menu choice.");
                 }
             }
         }
     }
-}
+} 
