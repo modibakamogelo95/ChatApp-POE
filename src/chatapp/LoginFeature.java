@@ -1,5 +1,5 @@
 package chatapp;
-
+// LoginFeature - handles registration, login, and validation checks
 import java.util.regex.Pattern;
 
 public class LoginFeature {
